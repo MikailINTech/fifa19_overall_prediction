@@ -3,7 +3,7 @@
 The aim of this project is to compare and study the different optimization techniques seen in IASD “Optimization for Machine Learning” class on a medium scale dataset.
 
 The file "data.csv" includes FIFA 2019 players attributes. Some of them are "real life" attributes:
-Age, Nationality, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight, Release Clause.
+Age, Nationality, Club, Value, Wage, Preferred Foot, International Reputation, Weak Foot, Skill Moves, Work Rate, Position, Jersey Number, Joined, Loaned From, Contract Valid Until, Height, Weight, Release Clause. Others are game attributes given by FIFA 19.
 
 The attributes can be either numerical or categorical. We will use these attributes to predict the "Overall" by regression. The bigger is the overall, the better must be the player in the game.
 
