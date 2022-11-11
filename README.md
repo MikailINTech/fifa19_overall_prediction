@@ -1,6 +1,6 @@
 # Predicting Fifa 19 overall score of players
 
-##Introduction 
+## Introduction 
 The aim of this project is to compare and study the different optimization techniques for linear regression on a medium scale dataset. 
 
 The file "data.csv" includes FIFA 2019 players attributes. Some of them are "real life" attributes:
@@ -10,7 +10,7 @@ The attributes can be either numerical or categorical. We will use these attribu
 
 The dataset contains 18207 rows for 88 features and can be found [here](https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression/data) on Kaggle. Some parts of the work on the dataset is derived from this [notebook](https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression/notebook).
 
-##Conclusions
+## Conclusions
 
 We can see  in the following figure that linear regression performs well for the prediction of overall score ... ![regression](https://user-images.githubusercontent.com/45072645/201325842-ed3d82c6-222d-4d30-b178-863212f278ad.png)
 
